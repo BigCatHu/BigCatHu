@@ -2,7 +2,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+passionate+web+developer+based+in+Beijing.++%F0%9F%91%8B) -->
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/BigCatHu)
-![CSDN](https://img.shields.io/badge/Blogger-CSDN-orange)
+[![CSDN](https://img.shields.io/badge/Blogger-CSDN-orange)](https://blog.csdn.net/qq_56731654?type=blog)
+[![LeetCode](https://img.shields.io/badge/leetCode--lightgrey?style=flat-square&logo=leetcode)](https://leetcode.cn/u/ping-guo-ni-ge-ai-pao-pao-m/)
+
 
 <!--
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/)
