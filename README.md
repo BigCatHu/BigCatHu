@@ -14,7 +14,7 @@
 - 🍻 Junior at 🇨🇳 [NCU](http://www.ncu.edu.cn/), _BSc in Mathematics and Applied Mathematics_
 - ⚡ Python / PyTorch / LaTex / Visio.
 - 🖋 Writer at [CSDN](https://blog.csdn.net/)
-- ✍️ [CyberAssassin](https://blog.csdn.net/qq_56731654?spm=1000.2115.3001.5343)
+- ✍️ [NoahHu777](https://blog.csdn.net/qq_56731654?spm=1000.2115.3001.5343)
 - 🏃 Tennis / Badminton/ Table Tennis / Cycling / Billiards
 - 🥋 Operations Research / Statistics / Machine Learning / Neural Networks / Brain-like Computing
 - ♟ Chinese Chess / Chess 
