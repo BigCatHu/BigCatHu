@@ -20,7 +20,7 @@
 - ♟ Chinese Chess / Chess 
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigCatHu)
+<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigCatHu)
 <!-- ![BigCatHu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BigCatHu&layout=compact&hide_border=true&langs_count=10) -->
 <!-- ##### GitHub status: -->
 
