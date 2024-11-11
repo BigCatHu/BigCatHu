@@ -11,7 +11,7 @@
 -->
 <!-- ![Python](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange) -->
 
-- 🍻 Junior at 🇨🇳 [NCU](http://www.ncu.edu.cn/), _BSc in Mathematics and Applied Mathematics_
+<!-- - 🍻 Junior at 🇨🇳 [NCU](http://www.ncu.edu.cn/), _BSc in Mathematics and Applied Mathematics_ -->
 - ⚡ Python / PyTorch / LaTex / Visio.
 - 🖋 Writer at [CSDN](https://blog.csdn.net/)
 - ✍️ [NoahHu777](https://blog.csdn.net/qq_56731654?spm=1000.2115.3001.5343)
